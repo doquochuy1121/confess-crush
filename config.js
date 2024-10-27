@@ -14,7 +14,7 @@ const CONFIG = {
     btnReply: 'Gửi cho bạn <3',
     reply: 'do a đẹp Trai và tốt bụng còn dễ thương nữa nên em rất yêu a <33333333',
     mess: 'a biết mà 🥰. Yêu bé nhiều nhiều 😘😘',
-    messDesc: 'nhớ dành nhiều thời gian cho a nha yêu bé eo <3333.',
+    messDesc: 'nhớ dành nhiều thời gian cho a nha yêu bé  eo <3333.',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://www.facebook.com/profile.php?id=100095403220846&locale=vi_VN
 }
